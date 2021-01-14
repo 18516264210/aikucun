@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T08:38:02.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="c8OdPBtzqvhdBfOa_5aM" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T08:48:22.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="g2HWSYhBZgOnk3taz8HD" version="14.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,19 +8,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wi5Lt8Dd_UVsGv5NHamb-1" value="新建盘点计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="179" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wi5Lt8Dd_UVsGv5NHamb-2" value="添加盘点条件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="269" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wi5Lt8Dd_UVsGv5NHamb-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;盘点计划&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="130" width="110" height="20" as="geometry" />
+          <mxGeometry x="310" y="30" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wi5Lt8Dd_UVsGv5NHamb-4" value="&lt;font color=&quot;#ff3333&quot;&gt;1.盘点类型&lt;br&gt;2.动碰盘点筛选条件&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="71" width="200" height="50" as="geometry" />
+        <mxCell id="Wi5Lt8Dd_UVsGv5NHamb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wi5Lt8Dd_UVsGv5NHamb-6" target="Wi5Lt8Dd_UVsGv5NHamb-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wi5Lt8Dd_UVsGv5NHamb-5" value="1.库区&lt;br&gt;2.库位&lt;br&gt;3.商品&lt;br&gt;4.供应商" style="text;html=1;strokeColor=#FFFFFF;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="160" width="110" height="60" as="geometry" />
+        <mxCell id="Wi5Lt8Dd_UVsGv5NHamb-6" value="盘点计划配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi5Lt8Dd_UVsGv5NHamb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wi5Lt8Dd_UVsGv5NHamb-8" target="Wi5Lt8Dd_UVsGv5NHamb-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wi5Lt8Dd_UVsGv5NHamb-8" value="动碰盘点条件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="90" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
